@@ -1,5 +1,2 @@
 # test-repo
-first test repo
-* item 1
-* item 2
-* item 3
+Testing linking files to Desktop for version tracking
